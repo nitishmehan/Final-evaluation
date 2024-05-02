@@ -1,13 +1,13 @@
-#TWEETER CLONE
+# TWEETER CLONE
 
-##Welcome to our repository! This GitHub repository houses our project aimed at building a Student Survey Form.
+## Welcome to our repository! This GitHub repository houses our project aimed at building a Student Survey Form.
 
-##TECHNOLIGIES WE WILL BE USING IN OUR PROJECT:
+## TECHNOLIGIES WE WILL BE USING IN OUR PROJECT:
 HTML
 CSS
 JAVASCRIPT.
 
-TEAM NUMBER-23
+## TEAM NUMBER-23
 
 TEAM MEMBERS:
 NITISH MEHAN (2310990589)
